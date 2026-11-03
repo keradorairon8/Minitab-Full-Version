@@ -254,4 +254,4 @@ This repository serves as the official landing page for Minitab. The software is
 **Get the most recent version of Minitab today!**
 
 ---
-**Last updated:** 2026-11-03 07:29:11 UTC
+**Last updated:** 2026-11-03 15:44:50 UTC
